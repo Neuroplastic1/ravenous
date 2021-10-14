@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+## “Ravenous”, a Yelp-like clone.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In total, there will be four parts to this project:
+
+Creating Static Components
+Passing Information to Components
+Setting the State of Ravenous Components
+Interacting with the Yelp API
+
+## User stories
+
+Here’s a quick overview of how Ravenous should function:
+- As a user, I should be able to search for   restaurants
+- As a user, I should be able to view a list of restaurants returned by the Yelp API
+- As a user, I should be able to sort through restaurants using a filter
 
 ## Available Scripts
 
