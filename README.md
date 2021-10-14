@@ -1,12 +1,12 @@
 ## “Ravenous”
 A Yelp-like clone.
 (currently building)
-In total, there will be four parts to this project:
 
-Creating Static Components
-Passing Information to Components
-Setting the State of Ravenous Components
-Interacting with the Yelp API
+In total, there will be four parts to this project:
+- Creating Static Components
+- Passing Information to Components
+- Setting the State of Ravenous Components
+- Interacting with the Yelp API
 
 ## User stories
 
