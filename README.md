@@ -1,5 +1,6 @@
-## “Ravenous”, a Yelp-like clone.
-
+## “Ravenous”
+A Yelp-like clone.
+(currently building)
 In total, there will be four parts to this project:
 
 Creating Static Components
