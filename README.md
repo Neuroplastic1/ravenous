@@ -1,6 +1,5 @@
 ## “Ravenous”
-A Yelp-like clone.
-(currently building)
+A Yelp-like clone. Search for local businesses.
 
 In total, there will be four parts to this project:
 - Creating Static Components
@@ -8,12 +7,19 @@ In total, there will be four parts to this project:
 - Setting the State of Ravenous Components
 - Interacting with the Yelp API
 
+![alt text](./src/components/SearchBar/ravenous.png)
 ## User stories
 
 Here’s a quick overview of how Ravenous should function:
 - As a user, I should be able to search for   restaurants
 - As a user, I should be able to view a list of restaurants returned by the Yelp API
 - As a user, I should be able to sort through restaurants using a filter
+
+## Instructions to run this app on local server
+
+Please use your API key to access the yelp api.
+Create a .env file and store the API key in it.
+For further info feel free to open an issue.
 
 ## Available Scripts
 
